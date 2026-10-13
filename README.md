@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Minimalist Dark Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:161b22&height=170&section=header&text=timmu&fontSize=46&fontColor=f0f6fc&animation=fadeIn&fontAlignY=40" width="100%" alt="Banner" />
+<!-- Minimalist Dark Terminal Header SVG -->
+<img src="./assets/header.svg" width="100%" alt="timmu" />
+
+<br/><br/>
 
 <a href="https://github.com/xxnetme">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+developer+%26+open-source+tinkerer;TypeScript%2C+client+mods%2C+and+runtime+internals;Writing+clean%2C+minimal%2C+and+focused+code" alt="Typing SVG" />
@@ -49,13 +51,5 @@ Software developer focused on TypeScript, client modifications, and reverse-engi
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxnetme&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:161b22&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
