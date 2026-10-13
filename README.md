@@ -1,27 +1,27 @@
 <div align="center">
 
-# timmu
+# xxnetme
 
 <a href="https://github.com/xxnetme">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+developer+%26+open-source+tinkerer;TypeScript%2C+client+mods%2C+and+runtime+internals;Writing+clean%2C+minimal%2C+and+focused+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Software+Developer+%26+Open-Source+Contributor;TypeScript%2C+Runtime+Patching+%26+Tooling;Building+clean%2C+modular%2C+and+performant+software" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### About
+### Overview
 
-Software developer focused on TypeScript, client modifications, and reverse-engineering web application runtimes. Passionate about building modular plugins, fixing ecosystem bugs, and writing lightweight, zero-bloat utilities.
+Software developer focused on TypeScript, client-side modifications, and runtime tooling. Interested in AST transformations, Webpack module architectures, and lightweight utilities.
 
 ---
 
-### Featured Work & Plugins
+### Projects & Contributions
 
 | Repository / Module | Description | Technologies |
 | :--- | :--- | :--- |
-| **[AutoSuppressEmbeds](https://github.com/xxnetme/Vencord/tree/feat/auto-suppress-embeds/src/plugins/autoSuppressEmbeds)** | Automatic Discord URL embed suppression engine with configurable whitelist, blacklist, and chat bar toggle | `TypeScript` `React` `Webpack` |
-| **[NormalizeQuotes](https://github.com/xxnetme/Vencord/tree/feat/normalize-quotes/src/plugins/normalizeQuotes)** | Real-time smart punctuation normalizer (converts mobile curly quotes and em-dashes to standard ASCII for terminal/code) | `TypeScript` `String Processing` |
+| **[AutoSuppressEmbeds](https://github.com/xxnetme/Vencord/tree/feat/auto-suppress-embeds/src/plugins/autoSuppressEmbeds)** | URL embed suppression engine with configurable whitelist, blacklist, and chat bar toggle | `TypeScript` `React` `Webpack` |
+| **[NormalizeQuotes](https://github.com/xxnetme/Vencord/tree/feat/normalize-quotes/src/plugins/normalizeQuotes)** | Smart punctuation normalizer (converts mobile curly quotes and em-dashes to standard ASCII for terminal/code) | `TypeScript` `String Processing` |
 | **[Vencord #4685](https://github.com/Vendicated/Vencord/pull/4685)** | Upstream bugfix for `MusicRichPresence` plugin resolving ListenBrainz MusicBrainz canonical artist credits | `TypeScript` `ListenBrainz API` |
 
 ---
