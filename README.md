@@ -3,7 +3,7 @@
 # xxnetme
 
 <a href="https://github.com/xxnetme">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Software+Developer+%26+Open-Source+Contributor;Author+of+portx+%E2%80%94+fast+zero-dep+port+manager;TypeScript%2C+CLI+Tools+%26+Runtime+Engineering;Building+clean%2C+modular%2C+and+performant+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Developer+%26+Open-Source+Engineer;Building+zero-dependency+CLI+tools+and+developer+utilities;TypeScript%2C+Systems+Tooling+%26+Runtime+Engineering;Author+of+portx%2C+env-guard%2C+benchx%2C+unghost+%26+promptpak" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,18 +12,30 @@
 
 ### Overview
 
-Software developer focused on TypeScript, CLI developer tools, and runtime engineering. Author of **[portx](https://github.com/xxnetme/portx)** and active open-source contributor. Passionate about building lightweight, zero-dependency utilities with exceptional developer experience.
+Software developer focused on TypeScript, CLI developer tools, runtime engineering, and security utilities. Building fast, zero-dependency tools designed for clean developer workflows, CI/CD integration, and minimal footprint.
 
 ---
 
-### Projects & Open Source
+### Featured Projects
 
-| Repository / Project | Description | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[portx](https://github.com/xxnetme/portx)** | Fast, zero-dependency CLI port manager and process killer for macOS, Linux, and Windows | `TypeScript` `Node.js` `CLI` |
-| **[AutoSuppressEmbeds](https://github.com/xxnetme/Vencord/tree/feat/auto-suppress-embeds/src/plugins/autoSuppressEmbeds)** | URL embed suppression engine with configurable whitelist, blacklist, and chat bar toggle | `TypeScript` `React` `Webpack` |
-| **[NormalizeQuotes](https://github.com/xxnetme/Vencord/tree/feat/normalize-quotes/src/plugins/normalizeQuotes)** | Smart punctuation normalizer (converts mobile curly quotes and em-dashes to standard ASCII for terminal/code) | `TypeScript` `String Processing` |
-| **[Vencord #4685](https://github.com/Vendicated/Vencord/pull/4685)** | Upstream bugfix for `MusicRichPresence` plugin resolving ListenBrainz MusicBrainz canonical artist credits | `TypeScript` `ListenBrainz API` |
+| **[env-guard](https://github.com/xxnetme/env-guard)** | Zero-dependency `.env` audit, drift synchronizer, and committed secret leak detector | `TypeScript` `Security` `DevTools` |
+| **[unghost](https://github.com/xxnetme/unghost)** | Zero-width character, steganography, and Trojan Source (CVE-2021-42574) Unicode scanner & sanitizer | `TypeScript` `Security` `Linter` |
+| **[promptpak](https://github.com/xxnetme/promptpak)** | High-speed codebase-to-LLM prompt packager with `.gitignore` filtering and ASCII directory tree | `TypeScript` `LLM` `AI Context` |
+| **[benchx](https://github.com/xxnetme/benchx)** | Zero-dependency CLI command micro-benchmarker with statistical comparison and nanosecond timing | `TypeScript` `Performance` `Benchmarking` |
+| **[git-tidy](https://github.com/xxnetme/git-tidy)** | Automated git branch pruner for merged & stale remote refs with safe guardrails and repo optimization | `TypeScript` `Git` `Automation` |
+
+---
+
+### Open Source Contributions
+
+| Target | Description | Details |
+| :--- | :--- | :--- |
+| **[Vendicated/Vencord #4685](https://github.com/Vendicated/Vencord/pull/4685)** | Resolved ListenBrainz artist credit duplication by building canonical artist strings from MusicBrainz credits | Upstream Pull Request |
+| **[AutoSuppressEmbeds](https://github.com/xxnetme/Vencord/tree/feat/auto-suppress-embeds/src/plugins/autoSuppressEmbeds)** | URL embed suppression engine featuring granular domain whitelists, blacklists, and chat bar toggle | Vencord Client Plugin |
+| **[NormalizeQuotes](https://github.com/xxnetme/Vencord/tree/feat/normalize-quotes/src/plugins/normalizeQuotes)** | Smart punctuation normalizer converting mobile curly quotes and typographic dashes to standard ASCII | Vencord Client Plugin |
 
 ---
 
