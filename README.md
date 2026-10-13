@@ -3,7 +3,7 @@
 # xxnetme
 
 <a href="https://github.com/xxnetme">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Software+Developer+%26+Open-Source+Contributor;TypeScript%2C+Runtime+Patching+%26+Tooling;Building+clean%2C+modular%2C+and+performant+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=580&lines=Software+Developer+%26+Open-Source+Contributor;Author+of+portx+%E2%80%94+fast+zero-dep+port+manager;TypeScript%2C+CLI+Tools+%26+Runtime+Engineering;Building+clean%2C+modular%2C+and+performant+software" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,14 +12,15 @@
 
 ### Overview
 
-Software developer focused on TypeScript, client-side modifications, and runtime tooling. Interested in AST transformations, Webpack module architectures, and lightweight utilities.
+Software developer focused on TypeScript, CLI developer tools, and runtime engineering. Author of **[portx](https://github.com/xxnetme/portx)** and active open-source contributor. Passionate about building lightweight, zero-dependency utilities with exceptional developer experience.
 
 ---
 
-### Projects & Contributions
+### Projects & Open Source
 
-| Repository / Module | Description | Technologies |
+| Repository / Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[portx](https://github.com/xxnetme/portx)** | Fast, zero-dependency CLI port manager and process killer for macOS, Linux, and Windows | `TypeScript` `Node.js` `CLI` |
 | **[AutoSuppressEmbeds](https://github.com/xxnetme/Vencord/tree/feat/auto-suppress-embeds/src/plugins/autoSuppressEmbeds)** | URL embed suppression engine with configurable whitelist, blacklist, and chat bar toggle | `TypeScript` `React` `Webpack` |
 | **[NormalizeQuotes](https://github.com/xxnetme/Vencord/tree/feat/normalize-quotes/src/plugins/normalizeQuotes)** | Smart punctuation normalizer (converts mobile curly quotes and em-dashes to standard ASCII for terminal/code) | `TypeScript` `String Processing` |
 | **[Vencord #4685](https://github.com/Vendicated/Vencord/pull/4685)** | Upstream bugfix for `MusicRichPresence` plugin resolving ListenBrainz MusicBrainz canonical artist credits | `TypeScript` `ListenBrainz API` |
