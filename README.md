@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Minimalist Dark Terminal Header SVG -->
-<img src="./assets/header.svg" width="100%" alt="timmu" />
-
-<br/><br/>
+# timmu
 
 <a href="https://github.com/xxnetme">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Software+developer+%26+open-source+tinkerer;TypeScript%2C+client+mods%2C+and+runtime+internals;Writing+clean%2C+minimal%2C+and+focused+code" alt="Typing SVG" />
